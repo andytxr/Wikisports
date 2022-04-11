@@ -1,0 +1,15 @@
+body {
+    margin: 30px 50px 0px 50px;
+    font-family: Verdana, Arial, sans-serif; 
+    background-color: white; 
+    color: black
+}
+footer {
+    color:#009900; 
+    font-size:90%; 
+    text-align:center
+}
+#logo {
+    width: 450px;
+    height: 125px;
+}
